@@ -1,4 +1,4 @@
-# go-crud
+# Containerization Web Application Golang with Docker-Compose 
 
-Source code tutorial membuat sistem CRUD dengan Golang dan database MySQL & menambahkan containerization dengan docker-compose 
+Source code  membuat sistem CRUD dengan Golang dan database MySQL & menambahkan containerization dengan docker-compose 
 
