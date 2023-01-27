@@ -1,0 +1,16 @@
+version: '3.8'
+
+services:
+  gocrud:
+    container_name: gocrud
+    build: 
+      context: "./"
+      dockerfile: dockerfile
+    image: "golang-crud:1.0.0"
+    ports:
+      - 3000:3000
+
+networks:
+  golangnetwork:
+    name: golangnetwork
+    driver: bridge

@@ -9,7 +9,7 @@ import (
 func DBConnection() (*sql.DB, error) {
 	dbDriver := "mysql"
 	dbUser := "root"
-	dbPass := ""
+	dbPass := "asdzxc12"
 	dbName := "go_crud"
 
 	db, err := sql.Open(dbDriver, dbUser+":"+dbPass+"@/"+dbName)
