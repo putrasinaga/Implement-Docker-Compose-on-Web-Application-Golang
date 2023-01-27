@@ -1,5 +1,4 @@
 # go-crud
 
-Source code tutorial membuat sistem CRUD dengan Golang dan database MySQL
+Source code tutorial membuat sistem CRUD dengan Golang dan database MySQL & menambahkan containerization dengan docker-compose 
 
-Youtube Tutorial: [Golang CRUD MySQL dan Form Validation](https://youtu.be/gHtRBGqXYlA)
